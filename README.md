@@ -1,6 +1,6 @@
 # Note App
 
-This template should help get you started developing with Vue 3 in Vite.
+<img width="1110" alt="Ảnh màn hình 2023-02-28 lúc 11 20 47" src="https://user-images.githubusercontent.com/84088181/221752868-e05d6cff-acdf-48a5-be16-586510614542.png">
 
 ## Recommended IDE Setup
 
